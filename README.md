@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora utilizando Javascript
+Calculadora utilizando Javascript (Relembrando Conceitos da Linguagem)
